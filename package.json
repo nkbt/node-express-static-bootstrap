@@ -1,0 +1,35 @@
+{
+	"name": "static-bootstrap",
+	"private": true,
+	"description": "Static bootstrap middleware for one page apps",
+	"version": "0.0.1",
+	"author": {
+		"name": "Nik Butenko",
+		"email": "nik@butenko.me"
+	},
+	"contributors": [
+		{
+			"name": "Nik Butenko",
+			"email": "nik@butenko.me"
+		}
+	],
+	"dependencies": {
+		"async": "*"
+	},
+	"keywords": [
+		"static bootstrap"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/nkbt/static-bootstrap.git"
+	},
+	"bugs": {
+		"url": "http://github.com/nkbt/static-bootstrap/issues",
+		"email": "nik@butenko.me"
+	},
+	"main": "index",
+	"engines": {
+		"node": "*"
+	},
+	"readmeFilename": "Readme.md"
+}

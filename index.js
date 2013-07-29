@@ -1,0 +1,1 @@
+module.exports = process.env.STATIC_BOOTSTRAP_COV ? require('./lib-cov/static-bootstrap') : require('./lib/static-bootstrap');
