@@ -2,7 +2,7 @@
 	"name": "static-bootstrap",
 	"private": true,
 	"description": "Static bootstrap middleware for one page apps",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": {
 		"name": "Nik Butenko",
 		"email": "nik@butenko.me"
