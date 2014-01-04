@@ -1,8 +1,8 @@
 {
-	"name": "static-bootstrap",
+	"name": "node-express-static-bootstrap",
 	"private": true,
 	"description": "Static bootstrap middleware for one page apps",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": {
 		"name": "Nik Butenko",
 		"email": "nik@butenko.me"
@@ -18,15 +18,12 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/nkbt/static-bootstrap.git"
+		"url": "git://github.com/nkbt/node-express-static-bootstrap.git"
 	},
 	"bugs": {
-		"url": "http://github.com/nkbt/static-bootstrap/issues",
+		"url": "http://github.com/nkbt/node-express-static-bootstrap/issues",
 		"email": "nik@butenko.me"
 	},
 	"main": "index",
-	"engines": {
-		"node": "*"
-	},
 	"readmeFilename": "README.md"
 }
